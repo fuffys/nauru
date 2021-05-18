@@ -1,0 +1,23 @@
+{
+  "name": "nauru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuffys/nauru.git"
+  },
+  "author": "Lukáš Vrba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuffys/nauru/issues"
+  },
+  "homepage": "https://github.com/fuffys/nauru#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.6.0"
+  }
+}

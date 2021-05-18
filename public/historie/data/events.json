@@ -1,0 +1,40 @@
+[
+    {
+        "year": "1798",
+        "event": "Objevení Nauru",
+        "detail": "V roce 1798 se britský námořní kapitán John Fearn na své obchodní lodi Hunter (300 tun) stal prvním obyvatelem Západu, který nahlásil pozorování Nauru a kvůli svému atraktivnímu vzhledu jej nazval „Příjemný ostrov“. Od nejméně roku 1826 měli Nauruané pravidelný kontakt s Evropany na velrybářských a obchodních lodích, kteří požadovali provizi a čerstvou pitnou vodu. Poslední velrybář, který zavolal ve věku plachty, navštívil v roce 1904.",
+        "evaluation": "true"
+    },
+    {
+        "year": "1878 - 1888",
+        "event": "Nauruanská Občanská Válka",
+        "detail": "Nauruanská občanská válka byla vedena v letech 1878 až 1888 mezi silami loajálními úřadujícímu králi Aweidovi z Nauru a těmi, kteří se ho snažili sesadit ve prospěch konkurenčního žadatele. Válce předcházelo zavedení střelných zbraní do Nauru. Po většinu války se loajalisté a rebelové dostali do patové situace, přičemž jedna strana ovládala sever a druhá jih. V roce 1888 zasáhlo německé impérium obnovením Aweidy na trůn a převzetím střelných zbraní bojovníků (v době, kdy Němci skončili, zabavili Němci 791 pušek Nauruanům, což byla téměř jedna zbraň pro každého obyvatele ostrova). V průběhu války ztratilo Nauru asi 500 lidí, třetinu předválečné populace.",
+        "evaluation": "false"
+    },
+    {
+        "year": "1900",
+        "event": "Fosfátová Naleziště",
+        "detail": "Fosfát objevil na Nauru v roce 1900 prospektor Albert Fuller Ellis. Pacifická fosfátová společnost začala využívat rezervy v roce 1906 na základě dohody s Německem a svou první zásilku vyvážela v roce 1907. V roce 1914, po vypuknutí první světové války, byl Nauru zajat australskými jednotkami. V roce 1919 bylo spojeneckými a sdruženými mocnostmi dohodnuto, že jeho britským veličenstvím by měl být řídící orgán v rámci mandátu Společnosti národů. Dohoda o ostrově Nauru uzavřená v roce 1919 mezi vládami Spojeného království, Austrálie a Nového Zélandu stanovila správu ostrova a těžbu fosfátových ložisek mezivládní Britskou komisí pro fosfáty (BPC). Podmínky mandátu Společnosti národů byly vypracovány v roce 1920.",
+        "evaluation": "true"
+    },
+    {
+        "year": "1920",
+        "event": "Španělská Chřipka",
+        "detail": "Ostrov zažil chřipkovou epidemii v roce 1920, s mírou úmrtnosti 18% mezi původními Nauruany.",
+        "evaluation": "true"
+    },
+    {
+        "year": "1942, 1943",
+        "event": "Okupace a Bombardování",
+        "detail": "Japonská vojska obsadila Nauru dne 25. srpna 1942. Japonci postavili přistávací plochu, která byla poprvé bombardována 25. března 1943, čímž zabránila leteckému zásobování potravinami na Nauru.",
+        "evaluation": "true"
+    },
+    {
+        "year": "1966, 1968",
+        "event": "Osamostatnění",
+        "detail": "Nauru se stal samosprávou v lednu 1966 a po dvouletém ústavním shromáždění se dne 31. ledna 1968 osamostatnil pod zakládajícím prezidentem Hammerem DeRoburtem.",
+        "evaluation": "true"
+    }
+    
+
+]
