@@ -34,5 +34,11 @@ app.get('/api/events/:index', (req, res) => {
     .catch(err => res.send('Chyba lávky', err));
 });
 
+app.get('/api/town', (req, res) => {
+    readJSON('public/geografie/js/towns.json')
+    .then(data => res.send(data))
+    .catch(err => res.send('Chyba lávky', err));
+});
+
 const PORT = process.env.PORT || 8080;
 server.listen(PORT, () => console.log(`Server running on port ${PORT}`));

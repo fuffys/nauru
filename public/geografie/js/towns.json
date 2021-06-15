@@ -1,0 +1,45 @@
+[
+    {
+       "id":"anabar",
+       "city":"Anabar",
+       "population":452,
+       "sign":"anabar.jpg",
+       "text":"Anabar je okres v tichomořské zemi Nauru. Je součástí volebního obvodu Anabar. Nachází se na severovýchodě ostrova, má rozlohu 1,5 km² a žije v něm 452 obyvatel (2011)."
+    },
+    {
+       "id":"ijuw",
+       "city":"Ijuw",
+       "population":178,
+       "sign":"ijuw.jpg",
+       "text":"Ijuw je okres v zemi Nauru, který se nachází na severovýchodě ostrova. Tato oblast pokrývá 1,1 km² a žije v ní 178 obyvatel, což z Ijuw dělá nejméně obydlený okres v zemi."
+    },
+    {
+       "id":"menang",
+       "city":"Meneng",
+       "population":1380,
+       "sign":"menang.jpg",
+       "text":"Meneng (nebo Menen) je okres nacházející se ve volebním obvodu Meneng v zemi Nauru. Volební obvod volí 2 členy parlamentu Nauru v Yarenu."
+    },
+    {
+       "id":"yaren",
+       "city":"Yaren",
+       "population":747,
+       "sign":"yaren.jpg",
+       "text":"Yaren (v dřívějších dobách Makwa / Moqua), je okresem tichomořského národa Nauru. Je to defakto hlavní město Nauru a má stejný rozsah jako volební obvod Yaren."
+    },
+    {
+       "id":"aiwo",
+       "city":"Aiwo",
+       "population":1220,
+       "sign":"aiwo.jpg",
+       "text":"Aiwo (zřídka Aiue, dříve Yangor) je okres v tichomořské zemi Nauru. Jarrit Morpak je starostou města zvoleným v roce 2008. Patří do volebního obvodu Aiwo."
+    },
+    {
+       "id":"denig",
+       "city":"Denig",
+       "population":1804,
+       "sign":"denig.jpg",
+       "text":"Denigomodu je okres v západní části ostrova Nauru. Je to nejlidnatější čtvrť v Nauru. Je zde sídliště krajanské bytové jednotky „The Location“. To z něj činí největší osídlení Nauru podle počtu obyvatel. Od roku 1999 žije v Denigomodu 25,7% lidí v Nauru."
+    }
+    
+]
