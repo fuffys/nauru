@@ -1,27 +1,25 @@
-$(function(){
-    let mesta = [];
+$(document).ready(function(){
+    let kraje = [];
 
-    fetch('/towns.json')
+    fetch('../geografie/data/kraje.json')
     .then(response => {
     return response.json();
     })
     .then(json =>{
-    mesta = json;
+    kraje = json;
     })
     .catch(function(error){
     console.error('Chyba: \n', error);
     });
 
 
-    let poi = [];
-    fetch('http://localhost:8080/api/town')
-    .then(response => { return response.json() })
-    .then(json => { poi = json; })
-    .catch(function (error) { console.error('Error: \n', error); });
     
 
         let lastfill = $("svg").attr('fill');
         $("path").on('click', function(){ //on click on path
+            let id =  $("svg").attr('id');
+            let kraj = kraje.find(item => {return item.id == id});
+            console.log(kraj);
             if(lastfill == 'rgb(0, 44, 126)') { //if lastfill is yellow
                 $(this).css({'fill':'rgb(255, 215, 0)'}); //set the color to black
                 lastfill = "#7c7c7c"; //set lastfill to grey

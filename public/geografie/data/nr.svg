@@ -1,6 +1,6 @@
-<svg fill="#7c7c7c" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" baseprofile="tiny" version="1.2" viewBox="0 0 1000 1197" viewbox="0 0 1000 1197" xmlns="http://www.w3.org/2000/svg">
+<svg fill="#7c7c7c" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" baseprofile="tiny" version="1.2"  xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="-1000 -150 3000 1500">
  <path id="oBuada" d="m567.5 677.5-12.8 89.9-198 88.8-101 85.9-42.3-72.3-34.2-116.1 13.7-95.6 68.3-68.3 157 41 149.3 46.7z" name="Buada">
-  <title>Buada</title>
+  <title>Okres Buada</title>
  </path>
  <path id="oBoe" d="m255.7 942.1-35.5 30.2-37.3 139.8-84.7-205.7 115.2-36.6 42.3 72.3z" name="Boe">
   <title>Okres Boe</title>
@@ -20,17 +20,11 @@
  <path id="oBaiti" d="m604.7 392.1-9.1 61.1-6.6 55.5-372.7-352.5 137.2-52.8 251.2 288.7z" name="Baiti">
   <title>Okres Baiti</title>
  </path>
- <rect id="denig" x="98.691" y="397.42" width="35.833" height="37.499" fill="#000080">
-  <title>Denig</title>
- </rect>
- <rect id="aiwo" x="70.544" y="723.11" width="35.833" height="37.499" fill="#000080">
-  <title>Aiwo</title>
- </rect>
  <path id="oEwa" d="m622.9 268.9-18.2 123.2-251.2-288.7 118-45.4 151.4 210.9z" name="Ewa">
   <title>Okres Ewa</title>
  </path>
  <path id="oAnetan" d="m622.9 268.9-151.4-210.9 148-57 3.4 267.9z" name="Anetan">
-  <title>Anetan</title>
+  <title>Okres Anetan</title>
  </path>
  <path id="oAnabar" d="m945.4 148.2-322.5 120.7-3.4-267.9 325.9 147.2z" name="Anabar">
   <title>Okres Anabar</title>
@@ -51,20 +45,23 @@
  <circle cx="675" cy="268.5"/>
  <circle cx="999" cy="565.7"/>
  <g fill="#000080">
-  <rect id="yaren" x="233.21" y="1015.3" width="58.304" height="52.272" stroke-width="2">
+  <rect id="yaren" x="242.68" y="1082.6" width="37.487" height="41.433">
    <title>Yaren</title>
   </rect>
-  <rect id="menang" x="657.78" y="1038.1" width="35.833" height="37.499">
-   <title>Menang</title>
+  <rect id="aiwo" x="84.838" y="828.05" width="27.622" height="27.622">
+   <title>Aiwo</title>
   </rect>
-  <rect id="Ijuw" x="900.87" y="260.71" width="35.833" height="37.499">
+  <rect id="ijuw" x="905.6" y="248" width="27.622" height="27.622">
    <title>Ijuw</title>
   </rect>
-  <rect id="anabar" x="826.48" y="103.89" width="35.833" height="37.499">
-   <title>Anabar</title>
+  <rect id="denig" x="53.27" y="538.03" width="29.595" height="27.622">
+   <title>Denig</title>
   </rect>
-  <rect id="uaboe" x="370.1" y="123.99" width="35.833" height="37.499">
+  <rect id="uaboe" x="197.3" y="188.81" width="25.649" height="25.649">
    <title>Uaboe</title>
+  </rect>
+  <rect id="meneng" x="672.78" y="1068.8" width="25.649" height="27.622">
+   <title>Meneng</title>
   </rect>
  </g>
 </svg>
