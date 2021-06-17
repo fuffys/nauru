@@ -1,23 +1,20 @@
 [
     {
-       "id":"OAnabar",
+       "id":"oAnabar",
        "region":"Anabar",
        "population":452,
-       "sign":"anabar.jpg",
        "text":"Anabar je okres v tichomořské zemi Nauru. Je součástí volebního obvodu Anabar. Nachází se na severovýchodě ostrova, má rozlohu 1,5 km² a žije v něm 452 obyvatel (2011)."
     },
     {
        "id":"oIjuw",
        "region":"Ijuw",
        "population":178,
-       "sign":"ijuw.jpg",
        "text":"Ijuw je okres v zemi Nauru, který se nachází na severovýchodě ostrova. Tato oblast pokrývá 1,1 km² a žije v ní 178 obyvatel, což z Ijuw dělá nejméně obydlený okres v zemi."
     },
     {
        "id":"oMeneng",
        "region":"Meneng",
        "population":1380,
-       "sign":"menang.jpg",
        "text":"Meneng (nebo Menen) je okres nacházející se ve volebním obvodu Meneng v zemi Nauru. Volební obvod volí 2 členy parlamentu Nauru v Yarenu."
     },
     {
@@ -31,71 +28,61 @@
        "id":"oAiwo",
        "region":"Aiwo",
        "population":1220,
-       "sign":"aiwo.jpg",
        "text":"Aiwo (zřídka Aiue, dříve Yangor) je okres v tichomořské zemi Nauru. Jarrit Morpak je starostou města zvoleným v roce 2008. Patří do volebního obvodu Aiwo."
     },
     {
-       "id":"oDenig",
-       "region":"Denig",
+       "id":"oDenigomodu",
+       "region":"Denigomodu",
        "population":1804,
-       "sign":"denig.jpg",
        "text":"Denigomodu je okres v západní části ostrova Nauru. Je to nejlidnatější čtvrť v Nauru. Je zde sídliště krajanské bytové jednotky „The Location“. To z něj činí největší osídlení Nauru podle počtu obyvatel. Od roku 1999 žije v Denigomodu 25,7% lidí v Nauru."
     },
     {
       "id":"oAnibare",
       "region":"Anibare",
-      "population":1220,
-      "sign":"anibare.jpg",
-      "text":""
+      "population":226,
+      "text":"Anibare je okres v ostrovním státě Nauru, který je součástí volebního obvodu Anabar."
    },
    {
       "id":"oBoe",
       "region":"Boe",
-      "population":1220,
-      "sign":"boe.jpg",
-      "text":""
+      "population":851,
+      "text":"Boe je okres v zemi Nauru. Je to jediný okres volebního obvodu Boe. "
    },
    {
       "id":"oNibok",
       "region":"Nibok",
-      "population":1220,
-      "sign":"nibok.jpg",
-      "text":""
+      "population":484,
+      "text":"Nibok je okres v ostrovním státě Nauru v mikronéském jižním Pacifiku. Nachází se na západě ostrova a rozkládá se na ploše 1,6 čtverečních kilometrů (395 akrů). Niboe je součástí volebního obvodu Ubenide. Od roku 2011 byla populace 484."
    },
    {
       "id":"oBuada",
       "region":"Buada",
-      "population":1220,
-      "sign":"buada.jpg",
-      "text":""
+      "population":739,
+      "text":"Buada is a district in the Pacific nation of Nauru. It is the only district in Buada Constituency. It has a population of 739 (2011)."
    },
    {
       "id":"oUaboe",
       "region":"Uaboe",
-      "population":1220,
-      "sign":"uaboe.jpg",
-      "text":""
+      "population":318,
+      "text":"Uaboe (také známý jako Waboe) je okres v ostrovním státě Nauru, který se nachází na severozápadě ostrova. O rozloze přibližně 0,8 km² má Uaboe 330 obyvatel."
    },
    {
       "id":"oAnetan",
       "region":"Anetan",
-      "population":1220,
-      "sign":"anetan.jpg",
-      "text":""
+      "population":587,
+      "text":"Anetan je okres v tichomořském ostrovním státě Nauru. Leží ve volebním obvodu Anetan. Nachází se na severu ostrova a má rozlohu 1,0 km2. Je to jeden z nejmenších okresů. Populace je asi 880."
    },
    {
       "id":"oEwa",
       "region":"Ewa",
-      "population":1220,
-      "sign":"ewa.jpg",
-      "text":""
+      "population":446,
+      "text":"Ewa je okres v tichomořském státě Nauru, který se nachází na severu ostrova. Rozkládá se na ploše 1,2 km² a má populaci 300. Ewa je součástí volebního obvodu Anetan."
    },
    {
       "id":"oBaiti",
       "region":"Baiti",
-      "population":1220,
-      "sign":"baiti.jpg",
-      "text":""
+      "population":513,
+      "text":"Baitsi, dříve známý jako Baiti a dříve Beidi, je okres v tichomořském národě Nauru. Patří do volebního obvodu Ubenide. Čtvrť se nachází na severozápadě ostrova. Rozkládá se na ploše 1,2 km²."
    }
     
 ]

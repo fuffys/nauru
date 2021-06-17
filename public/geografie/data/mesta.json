@@ -1,0 +1,39 @@
+[
+    {
+    "id":"ijuw",
+    "region":"Ijuw",
+    "sign":"ijuw.jpg",
+    "text":"Hlavní \"město\" kraje Ijuw."
+ },
+ {
+    "id":"uaboe",
+    "region":"Uaboe",
+    "sign":"uaboe.png",
+    "text":"Hlavní \"město\" kraje Uaboe."
+ },
+ {
+   "id":"meneng",
+   "region":"Meneng",
+   "sign":"meneng.jpg",
+   "text":"Hlavní \"město\" kraje Meneng."
+},
+{
+   "id":"yaren",
+   "region":"Yaren",
+   "sign":"yaren.jpg",
+   "text":"Hlavní \"město\" kraje Yaren."
+},
+{
+   "id":"aiwo",
+   "region":"Aiwo",
+   "sign":"aiwo.jpg",
+   "text":"Hlavní \"město\" kraje Aiwo."
+},
+{
+   "id":"denig",
+   "region":"Denig",
+   "sign":"denig.png",
+   "text":"Hlavní \"město\" kraje Denig."
+}
+
+]
