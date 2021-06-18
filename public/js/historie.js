@@ -38,9 +38,9 @@ $(function () {
             $(".card-text").text(hero.biography);
             $(".card-footer").html(`Odkaz: <a href="${hero.online}">${hero.online}</a>`);
             $(".gallery").empty();
-            for (let i = 0; i < hero.portraits.length; i++) {
-                $(".gallery").append(`<div class="col-sm-4"><a href="#"><img src="historie/images/${hero.portraits[i]}" alt="" class="img-fluid"></a></div>`);
-            }
+                for (let i = 0; i < hero.portraits.length; i++) {
+                    $(".gallery").append(`<div class="col-sm-4"><a href="#"><img src="historie/images/${hero.portraits[i]}" alt="" class="img-fluid"></a></div>`);
+                }
         }
 
 
